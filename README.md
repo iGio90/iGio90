@@ -13,5 +13,4 @@ I create broken tools to break unbreakable apps. I use [Frida](https://github.co
 ![iGio90's github stats](https://github-readme-stats.vercel.app/api?username=iGio90&show_icons=true&theme=dark&count_private=true)
 
 
-[![ReadMe Card - Dwarf](https://github-readme-stats.vercel.app/api/pin/?username=iGio90&repo=dwarf)](https://github.com/iGio90/dwarf)  [![ReadMe Card - FridaAndroidInjector](https://github-readme-stats.vercel.app/api/pin/?username=iGio90&repo=FridaAndroidInjector)](https://github.com/iGio90/FridaAndroidInjector) 
-[![ReadMe Card - frida-scripts](https://github-readme-stats.vercel.app/api/pin/?username=secRet-re&repo=frida-scripts)](https://github.com/secRet-re/frida-scripts) 
+[![ReadMe Card - Dwarf](https://github-readme-stats.vercel.app/api/pin/?username=iGio90&repo=dwarf&theme=dark)](https://github.com/iGio90/dwarf)  [![ReadMe Card - FridaAndroidInjector](https://github-readme-stats.vercel.app/api/pin/?username=iGio90&repo=FridaAndroidInjector&theme=dark)](https://github.com/iGio90/FridaAndroidInjector) 
