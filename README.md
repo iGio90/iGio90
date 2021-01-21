@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I create broken tools to break unbreakable apps. I use @frida and @unicorn-engine for my daily task and research. I love open source and contributing when possible.
+I create broken tools to break unbreakable apps. I use [Frida](https://github.com/frida/frida/) and [Unicorn](https://github.com/unicorn-engine/unicorn) for my daily task and research. 9+ years Android developer and reverse engineer. Still in love with open source and contribution when possible.
 
 <hr>
 
