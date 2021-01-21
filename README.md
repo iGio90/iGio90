@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**iGio90/iGio90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I create broken tools to break unbreakable apps. I use @frida and @unicorn-engine for my daily task and research. I love open source and contributing when possible.
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| [Twitter](https://twitter.com/@iGio90) | [Blog](http://giovanni-rocca.com) | [Linkedin](https://www.linkedin.com/in/giovanni-rocca-1593a752/) |
+
+<hr>
+
+### 
+
+![iGio90's github stats](https://github-readme-stats.vercel.app/api?username=iGio90&show_icons=true&theme=dark&count_private=true)
+
+
+[![ReadMe Card - Dwarf](https://github-readme-stats.vercel.app/api/pin/?username=iGio90&repo=dwarf)](https://github.com/iGio90/dwarf)  [![ReadMe Card - FridaAndroidInjector](https://github-readme-stats.vercel.app/api/pin/?username=iGio90&repo=FridaAndroidInjector)](https://github.com/iGio90/FridaAndroidInjector) 
+[![ReadMe Card - frida-scripts](https://github-readme-stats.vercel.app/api/pin/?username=secRet-re&repo=frida-scripts)](https://github.com/secRet-re/frida-scripts) 
